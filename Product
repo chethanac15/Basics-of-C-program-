@@ -1,0 +1,9 @@
+ #include <stdio.h>
+void main ()
+{
+int a = 10;
+int b = 05;
+product=ab;
+printf("product is %d",ab);
+return 0;
+}
