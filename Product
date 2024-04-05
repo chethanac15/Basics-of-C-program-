@@ -5,5 +5,5 @@ int a = 10;
 int b = 05;
 product=ab;
 printf("product is %d",ab);
-return 0;
+getch();
 }
