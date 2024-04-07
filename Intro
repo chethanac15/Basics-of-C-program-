@@ -3,5 +3,5 @@ void main()
 {
 printf("Hi"\n);
 printf("welcome"\n);
-return 0;
+getch();
 }
