@@ -8,5 +8,5 @@ printf("Enter value of r");
 scanf("%f",&r);
 area=pirr;
 printf("area of circle is %f",&area);
-return 0;
+getch();
 }
