@@ -7,3 +7,4 @@ product=ab;
 printf("product is %d",ab);
 getch();
 }
+
