@@ -4,5 +4,5 @@ void main ()
 printf("Hello\n");
 printf("Welcome back");
 printf("click ok");
-getch();
+return 0;
 }
